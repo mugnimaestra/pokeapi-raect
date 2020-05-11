@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+See the Live project here https://pokeapi-react.now.sh/
 
 ## Available Scripts
 
